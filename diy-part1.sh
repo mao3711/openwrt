@@ -83,7 +83,7 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci
 
 # NAS
 #阿里云盘
-git clone https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-aliyundrive-webdav
+git clone https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-aliyundrive-webdav.git package/luci-app-aliyundrive-webdav 
 
 #文件助手
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
